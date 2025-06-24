@@ -8,7 +8,7 @@
 
 ### What are my hobbies?
 - 🏃 I enjoy any sort of sports
-- ▶️ I do freelance development
+- ▶️ I do some freelance development
 - 🎸 I watch lots of youtube
 
 <!--
