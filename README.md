@@ -3,14 +3,13 @@
 
 - 👨🏻‍💻 Heavily interested in fullstack and system design
 - 🏫 Bachelors in Computer Science at [Ball State University](https://bsu.edu/)
-- 🤹🏼‍♂️ Software Engineer at Motionflo
+- 🤹🏼‍♂️ Software Engineer at CivicPlus
 - 📍 Indiana
 
 ### What are my hobbies?
-- 🏃 I enjoy playing basketball
-- ▶️ I have a small AI Automation business
-- 🎶 I create full-stack apps for clients
-- 🎸 I enjoy watching youtube and learning new content
+- 🏃 I enjoy any sort of sports
+- ▶️ I do freelance development
+- 🎸 I watch lots of youtube
 
 <!--
 
